@@ -8,7 +8,7 @@
 	"MoriyaShiine"
   ],
   "license": "All Rights Reserved",
-  "environment": "*",
+  "environment": "client",
   "mixins": [
 	"funnyskymod.mixins.json"
   ],
